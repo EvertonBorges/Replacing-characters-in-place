@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Replacing characters in place</string>
+    <string name="phrase">Phrase:</string>
+    <string name="result">Result</string>
+    <string name="default_phrase">User is not allowed</string>
+    <string name="button_replace">Replace Spaces</string>
+    <string name="default_result">User\u002632is\u002632not\u002632allowed</string>
+</resources>

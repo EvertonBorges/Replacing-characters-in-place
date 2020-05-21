@@ -1,0 +1,2 @@
+rootProject.name='Replacing characters in place'
+include ':app'
